@@ -4,7 +4,7 @@
 
 .content {
   background-color: red;
-  height: 100vh;
+  height: 85vh;
   margin: 2%;
 }
 
@@ -31,4 +31,13 @@
 
 .title {
   margin-left: 3%;
+}
+
+.drawer {
+  background-color: #202020;
+}
+
+.cardVersion {
+  height: fit-content;
+  margin: 5%;
 }
