@@ -1,0 +1,34 @@
+.menu {
+  height: auto;
+}
+
+.content {
+  background-color: aquamarine;
+  height: 100vh;
+  margin: 2%;
+}
+
+.toolbar {
+  background-color: #202020;
+}
+
+.logo {
+  width: 200px !important;
+}
+
+.container {
+  background-color: white;
+}
+
+.loginButton {
+  margin-left: auto;
+  margin-right: 0;
+}
+
+.font {
+  font-weight: bold;
+}
+
+.title {
+  margin-left: 3%;
+}
