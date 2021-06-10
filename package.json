@@ -1,12 +1,7 @@
 {
   "name": "client",
-<<<<<<< HEAD:client/package.json
-  "version": "0.1.0",
-  "homepage": "http://funnyprogrammer.github.io/funnyprogrammer.github.io",
-=======
   "version": "0.2.1",
   "homepage": "https://funnyprogrammer.github.io/projectnext",
->>>>>>> feature/Front:package.json
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
